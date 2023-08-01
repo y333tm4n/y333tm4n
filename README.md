@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/realpjcabigao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piolo-justin-cabigao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/realpjcabigao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piolo-justin-cabigao-769300284/" height="30" width="40" /></a>
 <a href="https://kaggle.com/realpjcabigao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="realpjcabigao" height="30" width="40" /></a>
 <a href="https://fb.com/realpjcabigao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="realpjcabigao" height="30" width="40" /></a>
 </p>
