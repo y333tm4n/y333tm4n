@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piolo Justin Cabigao</h1>
-<h3 align="center">A current computer engineering student at Pamantasan ng Lungsod ng Maynila (PLM). My interest lies in the field of DevOps and Data Analytics, along with Machine Learning.</h3>
+<h3 align="center">A current computer engineering student at Pamantasan ng Lungsod ng Maynila (PLM). My interest lies in the field of Machine Learning, Cloud technologies as well as Internet of Things.</h3>
 
 - 🌱 I’m currently learning **Pandas, scikit_learn, Seaborn**
 
