@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piolo Justin Cabigao</h1>
 <h3 align="center">A Computer Engineering student at Pamantasan ng Lungsod ng Maynila (PLM). Passionate about Machine Learning, Cloud Technologies, and the Internet of Things (IoT).</h3>
 
-- 🔭 I’m currently working on **AI-driven solutions for real-world problems** like food waste tracking, landslide prediction, and real-time gesture detection for safety.
+- 🔭 I’m currently working on **AI-driven solutions for real-world problems** like food waste tracking, real-time gesture detection for safety as well as personal projects demonstrating my skills in the domain of **Data and AI**.
 - 🌱 I’m learning **Pandas, scikit-learn, Seaborn**, and diving deeper into **Retrieval-Augmented Generation (RAG), YOLOv8, and AWS Bedrock**.
 - 👨‍💻 I enjoy building smart systems — from **Arduino/Pi-based IoT** projects to **Flask/Svelte apps** backed by open-source LLMs.
 - 💡 I'm also exploring **LangChain, Hugging Face, and S3-based vector stores** to build AI assistants and domain-specific chatbots.
@@ -42,8 +42,5 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
