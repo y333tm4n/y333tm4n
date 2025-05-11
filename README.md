@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **AI-driven solutions for real-world problems** like food waste tracking, landslide prediction, and real-time gesture detection for safety.
 - 🌱 I’m learning **Pandas, scikit-learn, Seaborn**, and diving deeper into **Retrieval-Augmented Generation (RAG), YOLOv8, and AWS Bedrock**.
-- 🧠 I lead the **AI/ML Department at AWS Cloud Club Haribon**, where I curate workshops and research-based learning.
 - 👨‍💻 I enjoy building smart systems — from **Arduino/Pi-based IoT** projects to **Flask/Svelte apps** backed by open-source LLMs.
 - 💡 I'm also exploring **LangChain, Hugging Face, and S3-based vector stores** to build AI assistants and domain-specific chatbots.
-- 💬 Ask me about **machine learning pipelines, AWS services, Raspberry Pi tinkering, or running a student tech org**.
-- ⚡ Fun fact: I’ve led multiple tech initiatives, volunteered at PyCon APAC 2025, and I'm always excited to build with the community.
+- 💬 Ask me about **machine learning pipelines, AWS services or Raspberry Pi tinkering**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
