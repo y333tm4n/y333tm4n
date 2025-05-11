@@ -64,8 +64,11 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
-   <a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ultralytics/yolov5/master/docs/yolov5-logo.png" alt="yolo" width="40" height="40"/>
+  <a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer">
+  <img src="https://github.com/ultralytics/assets/raw/main/yolov5-logo.png" alt="YOLO" width="40" height="40"/>
+</a>
+  <a href="https://roboflow.com/" target="_blank" rel="noreferrer">
+    <img src="https://storage.googleapis.com/roboflow-blog/roboflow-logo-dark.png" alt="Roboflow" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
