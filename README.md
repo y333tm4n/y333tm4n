@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Piolo Justin Cabigao</h1>
 <h3 align="center">A Computer Engineering student at Pamantasan ng Lungsod ng Maynila (PLM). Passionate about Machine Learning, Cloud Technologies, and the Internet of Things (IoT).</h3>
 
-- 🔭 I’m currently working on **AI-driven solutions for real-world problems** like food waste tracking, real-time gesture detection for safety as well as personal projects demonstrating my skills in the domain of **Data and AI**.
-- 🌱 I’m learning **Pandas, scikit-learn, Seaborn**, and diving deeper into **Retrieval-Augmented Generation (RAG), YOLOv8, and AWS Bedrock**.
-- 👨‍💻 I enjoy building smart systems — from **Arduino/Pi-based IoT** projects to **Flask/Svelte apps** backed by open-source LLMs.
-- 💡 I'm also exploring **LangChain, Hugging Face, and S3-based vector stores** to build AI assistants and domain-specific chatbots.
+- 🔭 I’m currently working on **AI-driven solutions for real-world problems** like food waste tracking, real-time gesture detection for safety as well as personal projects demonstrating my skills in the domain of **Data and AI**.  
+- 🌱 I’m learning **Pandas, scikit-learn, Seaborn**, and diving deeper into **Retrieval-Augmented Generation (RAG), YOLOv8, and AWS Bedrock**.  
+- 👨‍💻 I enjoy building smart systems — from **Arduino/Pi-based IoT** projects to **Flask/Svelte apps** backed by open-source LLMs.  
+- 💡 I'm also exploring **LangChain, Hugging Face, and S3-based vector stores** to build AI assistants and domain-specific chatbots.  
 - 💬 Ask me about **machine learning pipelines, AWS services or Raspberry Pi tinkering**.
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
@@ -40,10 +40,34 @@
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
   </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visualstudio" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
